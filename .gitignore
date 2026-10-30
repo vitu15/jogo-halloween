@@ -1,0 +1,22 @@
+# Dependências e builds
+node_modules/
+dist/
+coverage/
+
+# Ambiente
+.env
+.env.*
+!.env.example
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.log
+.playwright-mcp/
+
+# Versão monolítica original (11 MB, com as músicas em base64).
+# O conteúdo dela já está migrado para frontend/ e shared/.
+index (3).html

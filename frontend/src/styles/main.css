@@ -1,0 +1,13 @@
+/* A ordem dos imports preserva a cascata do CSS original. */
+@import './base/tokens.css';
+@import './base/reset.css';
+@import './components/buttons.css';
+@import './screens/home.css';
+@import './components/card-back.css';
+@import './screens/game.css';
+@import './components/card.css';
+@import './screens/end.css';
+@import './components/modal.css';
+@import './components/settings.css';
+@import './components/toast.css';
+@import './base/responsive.css';

@@ -1,0 +1,438 @@
+[
+  {
+    "id": "1",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "IMITAÇÃO DEPLORÁVEL",
+    "desc": "Imite um animal durante 20 segundos. Vale fazer os sons do animal e exagerar na atuação.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "7",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: CAPITAL DA AUSTRÁLIA",
+    "desc": "Qual é a capital da Austrália?",
+    "ans": "Canberra.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "12",
+    "cat": "desafio",
+    "tipo": "Desafio coletivo",
+    "title": "CONTAGEM SUICIDA",
+    "desc": "Todos devem contar de 1 a 10 em voz alta, sem combinar a ordem. Se duas pessoas falarem ao mesmo tempo, a contagem recomeça do 1.",
+    "pen": "Quem falar ao mesmo tempo que outra pessoa toma 1 shot."
+  },
+  {
+    "id": "14",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: O MAIOR DESERTO",
+    "desc": "Qual é o maior deserto do mundo?",
+    "ans": "Antártida. O Saara é o maior deserto quente.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "16",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O HISTÓRICO AMALDIÇOADO",
+    "desc": "Abra o histórico de conversas do ChatGPT e mostre as conversas para o grupo.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "17",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O PIOR PALESTRANTE DO MUNDO",
+    "desc": "O grupo escolhe um tema absurdo. Você deve discursar sobre ele durante 40 segundos, como se fosse um especialista.",
+    "pen": "Se parar antes do tempo ou ficar mais de 5 segundos em silêncio, tome 1 shot."
+  },
+  {
+    "id": "19",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "CONFISSÃO INESPERADA",
+    "desc": "Conte uma situação vergonhosa em que você tentou agir normalmente, mas tudo deu errado.",
+    "pen": "Se passar a vez, tome 1 shot."
+  },
+  {
+    "id": "21",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O ALFABETO DA DESGRAÇA",
+    "desc": "O grupo escolhe uma categoria. Os jogadores devem responder seguindo a ordem do alfabeto, usando uma resposta que comece com a letra correspondente. Não vale repetir.",
+    "pen": "Se errar a letra, repetir uma resposta ou demorar mais de 3 segundos, tome 1 shot."
+  },
+  {
+    "id": "23",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "A RESPOSTA PROIBIDA",
+    "desc": "Responda a cinco perguntas rápidas sem dizer “sim”, “não” ou “talvez”.",
+    "pen": "Tome 1 shot por violação."
+  },
+  {
+    "id": "28",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "CONHECIMENTO INÚTIL",
+    "desc": "Qual animal tem três corações?",
+    "ans": "Polvo.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "30",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O DESAFIO DOS DEZ SEGUNDOS",
+    "desc": "Você tem 10 segundos para falar três países que começam com a letra B.",
+    "pen": "Se não conseguir, tome 1 shot."
+  },
+  {
+    "id": "31",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "LIGAÇÃO DO ALÉM",
+    "desc": "Faça uma chamada de vídeo para qualquer contato do seu WhatsApp. Não vale ligar para alguém que esteja presente na roda.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "32",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "BEBÊ POSSUÍDO",
+    "desc": "Escolha uma opção: carregar alguém do grupo no colo como um bebê ou ser carregado por alguém do grupo da mesma forma.",
+    "pen": "Se não cumprir o desafio, tome 1 shot."
+  },
+  {
+    "id": "33",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "EQUILÍBRIO MACABRO",
+    "desc": "Equilibre um copo na cabeça.",
+    "pen": "Se o copo cair, tome 1 shot. Se não tentar, tome 2 shots."
+  },
+  {
+    "id": "34",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O DIRECT AMALDIÇOADO",
+    "desc": "Escolha a pessoa à sua direita ou à sua esquerda. Ela deverá escolher uma conversa do seu Instagram Direct, e você deverá abrir a conversa para ela ver as mensagens mais recentes.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "35",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "DUELO DOS CONDENADOS",
+    "desc": "Desafie outro jogador para uma partida de pedra, papel e tesoura, melhor de 3.",
+    "pen": "Quem perder toma 1 shot."
+  },
+  {
+    "id": "36",
+    "cat": "penalidade",
+    "tipo": "Penalidade de rodada",
+    "title": "A MALDIÇÃO DA BOCA SUJA",
+    "desc": "Durante as próximas 4 rodadas, ninguém pode falar palavrões.",
+    "pen": "Quem soltar um palavrão toma 1 shot."
+  },
+  {
+    "id": "37",
+    "cat": "desafio",
+    "tipo": "Desafio coletivo",
+    "title": "O QUATRO DO INFERNO",
+    "desc": "Todos devem ficar em um pé só, formando um número 4 com a perna levantada.",
+    "pen": "A primeira pessoa a se desequilibrar toma 1 shot."
+  },
+  {
+    "id": "38",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O TOQUE FANTASMA",
+    "desc": "Feche os olhos. Alguém do grupo tocará seu ombro. Tente adivinhar quem foi.",
+    "pen": "Se acertar, quem tocou toma 1 shot. Se errar, você toma 1 shot."
+  },
+  {
+    "id": "39",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O ÚLTIMO CONDENADO",
+    "desc": "A última pessoa do grupo que usou o celular, exceto quem puxou esta carta, está condenada.",
+    "pen": "Essa pessoa toma 1 shot."
+  },
+  {
+    "id": "P1",
+    "cat": "penalidade",
+    "tipo": "Penalidade de rodada",
+    "title": "A PALAVRA AMALDIÇOADA",
+    "desc": "Você não pode falar a palavra “mano” durante toda a rodada.",
+    "pen": "Cada vez que falar, tome 1 shot."
+  },
+  {
+    "id": "P2",
+    "cat": "penalidade",
+    "tipo": "Penalidade de rodada",
+    "title": "O SILÊNCIO DOS CONDENADOS",
+    "desc": "Você não pode dizer “sim”, “não”, “aham” ou “uhum” durante toda a rodada.",
+    "pen": "Cada vez que falar uma dessas palavras, tome 1 shot."
+  },
+  {
+    "id": "P4",
+    "cat": "penalidade",
+    "tipo": "Penalidade de rodada",
+    "title": "O FANTASMA DO JOINHA",
+    "desc": "Sempre que alguém disser seu nome, você deve fazer um joinha em silêncio.",
+    "pen": "Se esquecer, tome 1 shot."
+  },
+  {
+    "id": "P8",
+    "cat": "penalidade",
+    "tipo": "Penalidade de rodada",
+    "title": "A BONECA POSSUÍDA",
+    "desc": "Você deve se movimentar em câmera lenta durante toda a rodada.",
+    "pen": "Se fizer algum movimento rápido, tome 1 shot."
+  },
+  {
+    "id": "D1",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O RITUAL DOS POLICHINELOS",
+    "desc": "Faça 20 polichinelos gritando uma palavra aleatória que o grupo escolher.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D17",
+    "cat": "desafio",
+    "tipo": "Desafio coletivo",
+    "title": "O OLHAR DO PREDADOR",
+    "desc": "Sempre que alguém começar a falar, todos devem olhar diretamente para essa pessoa de maneira exageradamente séria.",
+    "pen": "Quem rir primeiro toma 1 shot."
+  },
+  {
+    "id": "P7",
+    "cat": "penalidade",
+    "tipo": "Penalidade de rodada",
+    "title": "O GRITO DA BANSHEE",
+    "desc": "Fale só gritando pelo resto da rodada. Qualquer coisa que você disser tem que ser no grito.",
+    "pen": "Cada vez que falar sem gritar, tome 1 shot."
+  },
+  {
+    "id": "D3",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "A CONFISSÃO MAIS SOMBRIA",
+    "desc": "Conte a história mais vergonhosa da sua vida em 1 minuto. Tem que ser verdade.",
+    "pen": "Se recusar, tome 2 shots."
+  },
+  {
+    "id": "D4",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O GURU DO ALÉM",
+    "desc": "Imite um influencer de motivação extremamente cringe: “Você consegue! Acredite no seu potencial!”.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D5",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "A CELEBRIDADE POSSUÍDA",
+    "desc": "Imite uma celebridade à escolha do grupo.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D6",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "A GALERIA ASSOMBRADA",
+    "desc": "Mostre a última foto da sua galeria para o grupo.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D7",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O PRINT PROIBIDO",
+    "desc": "Mostre a última captura de tela que você tirou.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D8",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O ORÁCULO DAS PESQUISAS",
+    "desc": "Abra seu histórico de pesquisas do Google e leia as 3 últimas em voz alta.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D9",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "A ÚLTIMA MENSAGEM DOS MORTOS",
+    "desc": "Mostre a última conversa que você teve no WhatsApp.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D10",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O GRIMÓRIO DE NOTAS",
+    "desc": "Mostre a última nota que você escreveu no app de anotações.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D11",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O PESADELO EM PÚBLICO",
+    "desc": "Conte a situação mais constrangedora que você já passou em público.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D12",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "A CANTADA AMALDIÇOADA",
+    "desc": "Conte uma cantada engraçada ou vergonhosa que você já tentou passar em alguém.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D13",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "A VIAGEM ASSOMBRADA",
+    "desc": "Conte a situação mais constrangedora que você já viveu em transporte público.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D14",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "O SCROLL DA PERDIÇÃO",
+    "desc": "Escolha alguém para rolar suas conversas mais recentes do WhatsApp. A pessoa escolhida tem o direito de escolher uma conversa ou contato. Você pode negar e tomar 2 shots.",
+    "pen": "Se negar, tome 2 shots."
+  },
+  {
+    "id": "D15",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "A FESTA DOS HORRORES",
+    "desc": "Conte a situação mais constrangedora que você já passou em uma festa.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "D16",
+    "cat": "desafio",
+    "tipo": "Desafio individual",
+    "title": "A PALESTRA DO OUTRO LADO",
+    "desc": "Faça uma apresentação curta com o tema que a pessoa do seu lado direito escolher.",
+    "pen": "Se recusar, tome 1 shot."
+  },
+  {
+    "id": "Q1",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: OS OSSOS DO CORPO",
+    "desc": "Quantos ossos tem o corpo humano adulto?",
+    "ans": "206 ossos.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "Q2",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: O MENOR PAÍS",
+    "desc": "Qual é o menor país do mundo?",
+    "ans": "Vaticano.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "Q3",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: O HOMEM NA LUA",
+    "desc": "Em que ano o homem pisou na Lua pela primeira vez?",
+    "ans": "1969.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "Q4",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: O PAÍS NA BANDEIRA",
+    "desc": "Qual é o único país do mundo que tem a bandeira com um mapa do próprio país?",
+    "ans": "Chipre. (O Kosovo também tem o mapa do país na bandeira.)",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "Q5",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: O SÍMBOLO Au",
+    "desc": "Qual é o elemento químico com o símbolo “Au”?",
+    "ans": "Ouro.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "Q6",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: O FIM DA GUERRA",
+    "desc": "Em que ano a Segunda Guerra Mundial terminou oficialmente?",
+    "ans": "1945.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "Q7",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: O PRIMEIRO PRESIDENTE",
+    "desc": "Quem foi o primeiro presidente do Brasil?",
+    "ans": "Marechal Deodoro da Fonseca.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "Q8",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: O GIGANTE DOS ANDES",
+    "desc": "Qual é a montanha mais alta da América do Sul?",
+    "ans": "Aconcágua.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "Q9",
+    "cat": "pergunta",
+    "tipo": "Pergunta individual",
+    "title": "PERGUNTA: O MAIOR OCEANO",
+    "desc": "Qual é o nome do maior oceano da Terra?",
+    "ans": "Oceano Pacífico.",
+    "pen": "Se errar, tome 1 shot."
+  },
+  {
+    "id": "P3",
+    "cat": "penalidade",
+    "tipo": "Penalidade de rodada",
+    "title": "O NARRADOR AMALDIÇOADO",
+    "desc": "Você só pode falar em terceira pessoa durante toda a rodada. Exemplo: “o Fulano quer um shot agora”.",
+    "pen": "Cada vez que falar em primeira pessoa, tome 1 shot."
+  },
+  {
+    "id": "P5",
+    "cat": "penalidade",
+    "tipo": "Penalidade de rodada",
+    "title": "A MALDIÇÃO DAS MÃOS ATADAS",
+    "desc": "Você não pode usar as mãos para beber durante toda a rodada. Só vale com a ajuda de outra pessoa ou direto com a boca.",
+    "pen": "Se usar as mãos para beber, tome 2 shots."
+  },
+  {
+    "id": "P6",
+    "cat": "penalidade",
+    "tipo": "Penalidade de rodada",
+    "title": "A POSIÇÃO DO CONDENADO",
+    "desc": "Você deve ficar de cócoras durante toda a rodada.",
+    "pen": "Cada vez que se levantar, tome 1 shot."
+  }
+]

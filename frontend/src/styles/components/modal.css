@@ -1,0 +1,87 @@
+.modal {
+  position: absolute;
+  inset: 0;
+  z-index: 50;
+  background: rgba(8, 5, 12, 0.78);
+  display: none;
+  align-items: flex-end;
+  justify-content: center;
+  padding-top: calc(env(safe-area-inset-top) + 20px);
+}
+.modal.on {
+  display: flex;
+}
+.sheet {
+  width: 100%;
+  max-width: 520px;
+  max-height: 100%;
+  background: var(--surf);
+  border-radius: 24px 24px 0 0;
+  border: 1px solid rgba(155, 93, 229, 0.4);
+  border-bottom: 0;
+  padding: 18px 18px calc(env(safe-area-inset-bottom) + 18px);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  overflow: hidden;
+}
+body:not(.noanim) .modal.on .sheet {
+  animation: up 0.28s ease;
+}
+@keyframes up {
+  from {
+    transform: translateY(40px);
+    opacity: 0;
+  }
+}
+.sheet h3 {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 22px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--orange);
+}
+.sheet .scroll {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 0;
+}
+.sheet p,
+.sheet li {
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--txt);
+  margin: 0;
+}
+.sheet ul {
+  margin: 0;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.sheet .tag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  padding: 2px 8px;
+  border-radius: 99px;
+  margin-right: 4px;
+}
+.t-o {
+  background: rgba(255, 107, 53, 0.2);
+  color: var(--orange);
+}
+.t-p {
+  background: rgba(155, 93, 229, 0.25);
+  color: #c9a3ff;
+}
+.t-r {
+  background: rgba(230, 57, 70, 0.25);
+  color: #ff8a93;
+}

@@ -1,0 +1,41 @@
+#end {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 14px;
+}
+#end h2 {
+  font-family: var(--serif);
+  font-size: clamp(30px, 9vw, 44px);
+  margin: 0;
+  color: var(--orange);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+#end p {
+  color: var(--txt2);
+  max-width: 30ch;
+  line-height: 1.5;
+  margin: 0;
+}
+#end .stats {
+  display: flex;
+  gap: 12px;
+}
+#end .stat {
+  background: var(--surf);
+  border-radius: 14px;
+  padding: 10px 16px;
+  min-width: 96px;
+}
+#end .stat b {
+  display: block;
+  font-size: 28px;
+  color: var(--orange);
+}
+#end .stat span {
+  font-size: 11px;
+  color: var(--txt2);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}

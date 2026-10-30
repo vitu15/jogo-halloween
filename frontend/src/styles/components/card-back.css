@@ -1,0 +1,31 @@
+.face-back {
+  background:
+    radial-gradient(circle at 50% 38%, rgba(155, 93, 229, 0.45), transparent 55%),
+    repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.035) 0 6px, transparent 6px 12px),
+    linear-gradient(160deg, #2c1a44, #150f20);
+  border: 2px solid rgba(255, 107, 53, 0.7);
+  display: grid;
+  place-items: center;
+  position: relative;
+}
+.face-back::after {
+  content: '';
+  position: absolute;
+  inset: 10px;
+  border: 1px solid rgba(255, 107, 53, 0.35);
+  border-radius: 12px;
+}
+.face-back svg {
+  width: 52%;
+  height: auto;
+  filter: drop-shadow(0 0 calc(14px * var(--glow)) rgba(255, 107, 53, 0.6));
+}
+.face-back .bt {
+  position: absolute;
+  bottom: 7%;
+  font-family: var(--serif);
+  font-weight: 900;
+  letter-spacing: 0.3em;
+  font-size: 13px;
+  color: var(--orange);
+}

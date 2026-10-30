@@ -1,0 +1,7 @@
+node_modules
+dist
+coverage
+package-lock.json
+*.mp3
+# A marcação HTML é mantida exatamente como no layout original.
+*.html
